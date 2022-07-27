@@ -1,3 +1,3 @@
 # Gitcourse1
-This just to learn
-## project note
+This is asimple project by using a bootstap -just one page 
+
